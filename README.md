@@ -3,6 +3,11 @@
 For instruction:
 > [React Pagination with API using Material-UI](https://bezkoder.com/react-pagination-material-ui/)
 
+Server side Pagination for this app:
+> [Server side Pagination in Node.js with Sequelize and MySQL](https://bezkoder.com/node-js-sequelize-pagination-mysql/)
+
+> [Spring Boot Pagination and Filter example](https://bezkoder.com/spring-boot-pagination-filter-jpa-pageable/)
+
 More practice:
 > [React (Components) CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/)
 
